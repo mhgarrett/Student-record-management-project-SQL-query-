@@ -12,4 +12,11 @@ To ease the level of effort of compiling the results of multiple exams throughou
 Business rules:<br />
 (1) All international students (visa status) whose language status is "English is not a dominant language" is on the tracking list for the placement exam. Coordinators receive an international matriculation list weekly from other administrative bodies in the university. <br />
 (2) Students register for the placement exam through Qualtrics. Coordinators will send out either reminder emails or instructions based on the students registered or not before the registration deadline for the exam.<br />
-(3) 
+(3) Each student can only take one test and receive only one result, regardless of which placement exam they choose to take throughout the year. Students who try to retake the test are removed from the registration list and notifications will be sent to the students who attempted to retake. <br />
+(4) A student is placed in one level based on their placement result and the level will decide which course they need at the following semester and any subsequent courses. <br />
+(5) There are course prerequisites that place stop on students to register for levels above their placement level and triggers reports to the program coordinators with such attempts. <br />
+(6) Each student should register for their next-level writing classes immediately after they finished the current level. Based on this information, the coordinator need to send out a reminder email to them.  <br />
+(7) If a student failed their writing class, they cannot move on to the next course level. <br />
+(8) The placement information is also used for the coordinators to make decisions on the course schedules for the upcoming year. <br />
+(9) Other business rules will be defined in later iterations of the database. <br />
+
