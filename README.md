@@ -23,3 +23,8 @@ Business rules:<br />
 The following is the logical model design for the database: 
 
 ![image](https://user-images.githubusercontent.com/94016314/188331490-709a3b09-1bb4-4214-af2b-ad112fcd3bf8.png)
+
+The project showcases the following sql coding: 
+- Data definition (creating tables and constraints)
+- Data manipulation (data-input, data-revision)
+- EDA based on the data questions
