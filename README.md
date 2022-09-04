@@ -20,3 +20,6 @@ Business rules:<br />
 (8) The placement information is also used for the coordinators to make decisions on the course schedules for the upcoming year. <br />
 (9) Other business rules will be defined in later iterations of the database. <br />
 
+The following is the logical model design for the database: 
+
+![image](https://user-images.githubusercontent.com/94016314/188331490-709a3b09-1bb4-4214-af2b-ad112fcd3bf8.png)
